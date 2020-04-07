@@ -1,0 +1,32 @@
+{
+  "name": "escalonamento-de-processos",
+  "version": "1.0.0",
+  "description": "Trabalho apresentado como requisito parcial para aprovação na disciplina Arquitetura de Computadores do curso de Ciência da Computação do Instituto de Ensino Superior da Grande Florianópolis – IESGF.",
+  "scripts": {
+    "dev": "npx webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoLatta/Escalonamento-de-processos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoLatta/Escalonamento-de-processos/issues"
+  },
+  "homepage": "https://github.com/GustavoLatta/Escalonamento-de-processos#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.32",
+    "@types/react-dom": "^16.9.6",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^6.2.2",
+    "typescript": "^3.8.3"
+  }
+}
